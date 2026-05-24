@@ -1,0 +1,5 @@
+streamlit
+speechrecognition
+pyaudio
+fastapi
+uvicorn
